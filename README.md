@@ -4,14 +4,30 @@ techniques and Deep Learning approaches to train data collected from the social 
 the available linguistic features present in the tweets and makes use of proper cleaning and pre-processing techniques for more accurate identification of 
 depressive traits among users.
 
-•Dataset:
-The Dataset was sourced from Kaggle : https://www.kaggle.com/kazanova/sentiment140
+# Dataset:
+•The Dataset was sourced from Kaggle : https://www.kaggle.com/kazanova/sentiment140
 
-•Preprocessing:
-Text case change, Hyperlink Removal, Digits Removal, Spelling Checking, Lemmatization, Removal of Stop words.
+# Preprocessing:
+•Text case change 
 
-•Feature Generation:
-Tokenization, Sentiment Extraction, Word2Vec.
+•Hyperlink Removal 
 
-•Model Training:
-LSTM, CNN-LSTM. 
+•Digits Removal 
+
+•Spelling Checking 
+
+•Lemmatization
+
+•Removal of Stop words.
+
+# Feature Generation:
+•Tokenization
+
+•Sentiment Extraction 
+
+•Word2Vec.
+
+# Model Training:
+•LSTM
+
+•CNN-LSTM. 
